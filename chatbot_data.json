@@ -1,0 +1,376 @@
+[
+    {
+        "question": "Bagaimana cara mereset kata sandi saya?",
+        "answer": "Untuk mengatur ulang kata sandi Anda, klik 'Lupa Kata Sandi' di halaman login dan ikuti instruksinya."
+    },
+    {
+        "question": "Apa yang membuat kamu lupa?",
+        "answer": "Saya lupa karena saya tak tau dan tak ingat."
+    },
+    {
+        "question": "Kamu siapa?",
+        "answer": "Saya adalah chatbot."
+    },
+    {
+        "question": "Apa itu AI?",
+        "answer": "AI adalah kecerdasan buatan yang digunakan untuk menjalankan tugas-tugas yang biasanya memerlukan kecerdasan manusia."
+    },
+    {
+        "question": "Bagaimana cara kerja chatbot?",
+        "answer": "Chatbot bekerja dengan memproses input pengguna dan memberikan respon yang sesuai berdasarkan algoritma yang telah diprogram."
+    },
+    {
+        "question": "Apa itu machine learning?",
+        "answer": "Machine learning adalah cabang dari AI yang memungkinkan sistem untuk belajar dan beradaptasi dari pengalaman tanpa diprogram ulang secara eksplisit."
+    },
+    {
+        "question": "Bagaimana cara membuat chatbot?",
+        "answer": "Untuk membuat chatbot, Anda bisa menggunakan berbagai platform seperti Dialogflow, Rasa, atau Microsoft Bot Framework."
+    },
+    {
+        "question": "Apa itu NLP?",
+        "answer": "NLP atau Natural Language Processing adalah cabang dari AI yang berfokus pada interaksi antara komputer dan manusia menggunakan bahasa alami."
+    },
+    {
+        "question": "Bagaimana cara mengatur ulang pengaturan pabrik di ponsel saya?",
+        "answer": "Anda dapat mengatur ulang pengaturan pabrik ponsel Anda melalui menu pengaturan di bagian cadangan dan reset."
+    },
+    {
+        "question": "Apa perbedaan antara AI dan ML?",
+        "answer": "AI adalah konsep yang lebih luas mencakup semua teknologi yang meniru kecerdasan manusia, sedangkan ML adalah subset dari AI yang berfokus pada algoritma yang memungkinkan komputer belajar dari data."
+    },
+    {
+        "question": "Apa itu deep learning?",
+        "answer": "Deep learning adalah subset dari machine learning yang menggunakan jaringan saraf tiruan dengan banyak lapisan untuk menganalisis data."
+    },
+    {
+        "question": "Apa manfaat menggunakan chatbot di situs web?",
+        "answer": "Chatbot dapat meningkatkan layanan pelanggan dengan memberikan respon instan, menghemat waktu dan biaya, serta meningkatkan keterlibatan pengguna."
+    },
+    {
+        "question": "Bagaimana cara mendaftar akun baru?",
+        "answer": "Untuk mendaftar akun baru, klik tombol 'Daftar' di halaman utama dan ikuti petunjuk yang diberikan."
+    },
+    {
+        "question": "Apa yang dimaksud dengan cloud computing?",
+        "answer": "Cloud computing adalah penyampaian layanan komputasi seperti penyimpanan, pengolahan, dan database melalui internet (cloud)."
+    },
+    {
+        "question": "Bagaimana cara memperbarui aplikasi saya?",
+        "answer": "Anda bisa memperbarui aplikasi Anda melalui toko aplikasi seperti Google Play Store atau Apple App Store."
+    },
+    {
+        "question": "Apa itu API?",
+        "answer": "API atau Application Programming Interface adalah sekumpulan definisi dan protokol yang memungkinkan perangkat lunak berkomunikasi satu sama lain."
+    },
+    {
+        "question": "Bagaimana cara menghubungi dukungan pelanggan?",
+        "answer": "Anda bisa menghubungi dukungan pelanggan melalui email, telepon, atau fitur live chat di situs web kami."
+    },
+    {
+        "question": "Apa itu blockchain?",
+        "answer": "Blockchain adalah teknologi yang mendasari cryptocurrency yang memungkinkan transaksi dicatat dalam buku besar digital yang aman dan terdesentralisasi."
+    },
+    {
+        "question": "Bagaimana cara menginstal ulang sistem operasi?",
+        "answer": "Untuk menginstal ulang sistem operasi, Anda perlu boot dari media instalasi seperti USB atau DVD dan ikuti instruksi instalasi."
+    },
+    {
+        "question": "Apa itu IoT?",
+        "answer": "IoT atau Internet of Things adalah jaringan perangkat fisik yang terhubung ke internet untuk mengumpulkan dan bertukar data."
+    },
+    {
+        "question": "Bagaimana cara memperbaiki kesalahan aplikasi?",
+        "answer": "Untuk memperbaiki kesalahan aplikasi, coba perbarui aplikasi, hapus cache, atau instal ulang aplikasi."
+    },
+    {
+        "question": "Apa itu big data?",
+        "answer": "Big data merujuk pada kumpulan data yang sangat besar dan kompleks yang memerlukan alat analitik khusus untuk diproses dan dianalisis."
+    },
+    {
+        "question": "Bagaimana cara menambahkan pengguna baru ke sistem?",
+        "answer": "Untuk menambahkan pengguna baru, masuk ke pengaturan sistem dan pilih opsi untuk menambah pengguna."
+    },
+    {
+        "question": "Apa itu cloud storage?",
+        "answer": "Cloud storage adalah layanan penyimpanan data online yang memungkinkan pengguna menyimpan dan mengakses data mereka dari mana saja melalui internet."
+    },
+    {
+        "question": "Bagaimana cara menghapus akun saya?",
+        "answer": "Untuk menghapus akun Anda, masuk ke pengaturan akun dan pilih opsi untuk menghapus akun."
+    },
+    {
+        "question": "Apa itu VPN?",
+        "answer": "VPN atau Virtual Private Network adalah layanan yang mengenkripsi koneksi internet Anda dan menyembunyikan alamat IP Anda untuk keamanan dan privasi online."
+    },
+    {
+        "question": "Bagaimana cara memperbaiki koneksi internet yang lambat?",
+        "answer": "Untuk memperbaiki koneksi internet yang lambat, coba restart router Anda, periksa perangkat untuk malware, atau hubungi penyedia layanan internet Anda."
+    },
+    {
+        "question": "Apa itu cybersecurity?",
+        "answer": "Cybersecurity adalah praktik melindungi sistem, jaringan, dan program dari serangan digital."
+    },
+    {
+        "question": "Bagaimana cara memulihkan data yang hilang?",
+        "answer": "Untuk memulihkan data yang hilang, Anda bisa menggunakan perangkat lunak pemulihan data atau memulihkan dari cadangan."
+    },
+    {
+        "question": "Apa itu DevOps?",
+        "answer": "DevOps adalah praktik yang menggabungkan pengembangan perangkat lunak dan operasi IT untuk meningkatkan efisiensi dan kualitas pengiriman aplikasi."
+    },
+    {
+        "question": "Bagaimana cara memperbarui firmware perangkat saya?",
+        "answer": "Untuk memperbarui firmware perangkat Anda, kunjungi situs web produsen perangkat dan ikuti instruksi untuk mengunduh dan menginstal pembaruan firmware."
+    },
+    {
+        "question": "Apa itu augmented reality?",
+        "answer": "Augmented reality adalah teknologi yang menambahkan elemen digital ke pandangan dunia nyata, biasanya melalui perangkat seperti smartphone atau kacamata AR."
+    },
+    {
+        "question": "Bagaimana cara mengatasi layar ponsel yang tidak responsif?",
+        "answer": "Untuk mengatasi layar ponsel yang tidak responsif, coba restart ponsel Anda atau bersihkan layar dari kotoran."
+    },
+    {
+        "question": "Apa itu 5G?",
+        "answer": "5G adalah generasi kelima teknologi jaringan seluler yang menawarkan kecepatan lebih tinggi, latensi lebih rendah, dan kapasitas lebih besar dibandingkan generasi sebelumnya."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan mode gelap di aplikasi?",
+        "answer": "Untuk mengaktifkan mode gelap di aplikasi, buka pengaturan aplikasi dan pilih opsi untuk mengaktifkan mode gelap."
+    },
+    {
+        "question": "Apa itu SaaS?",
+        "answer": "SaaS atau Software as a Service adalah model distribusi perangkat lunak di mana aplikasi dihosting oleh penyedia layanan dan diakses melalui internet."
+    },
+    {
+        "question": "Bagaimana cara memeriksa penggunaan data di ponsel saya?",
+        "answer": "Untuk memeriksa penggunaan data di ponsel Anda, buka pengaturan dan pilih opsi 'Penggunaan Data'."
+    },
+    {
+        "question": "Apa itu phishing?",
+        "answer": "Phishing adalah teknik penipuan yang digunakan untuk mendapatkan informasi sensitif seperti kata sandi dan nomor kartu kredit dengan menyamar sebagai entitas tepercaya."
+    },
+    {
+        "question": "Bagaimana cara mengunci aplikasi di ponsel saya?",
+        "answer": "Untuk mengunci aplikasi di ponsel Anda, gunakan fitur penguncian aplikasi yang tersedia di pengaturan atau unduh aplikasi pihak ketiga yang menawarkan fitur ini."
+    },
+    {
+        "question": "Apa itu AI generatif?",
+        "answer": "AI generatif adalah jenis AI yang mampu menghasilkan konten baru seperti teks, gambar, atau musik berdasarkan data yang telah dipelajarinya."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan notifikasi di aplikasi?",
+        "answer": "Untuk mengaktifkan notifikasi di aplikasi, buka pengaturan aplikasi dan pilih opsi untuk mengaktifkan notifikasi."
+    },
+    {
+        "question": "Apa itu cloud native?",
+        "answer": "Cloud native adalah pendekatan untuk membangun dan menjalankan aplikasi yang memanfaatkan penuh keuntungan dari model komputasi awan."
+    },
+    {
+        "question": "Bagaimana cara menghapus cache browser?",
+        "answer": "Untuk menghapus cache browser, buka pengaturan browser dan pilih opsi untuk menghapus data penjelajahan."
+    },
+   
+
+ {
+        "question": "Apa itu edge computing?",
+        "answer": "Edge computing adalah paradigma komputasi yang membawa pemrosesan data lebih dekat ke lokasi data untuk mengurangi latensi dan bandwidth."
+    },
+    {
+        "question": "Bagaimana cara membuat cadangan data ponsel saya?",
+        "answer": "Untuk membuat cadangan data ponsel Anda, buka pengaturan dan pilih opsi untuk mencadangkan data ke cloud atau perangkat penyimpanan eksternal."
+    },
+    {
+        "question": "Apa itu chatbot berbasis rule?",
+        "answer": "Chatbot berbasis rule adalah chatbot yang memberikan respon berdasarkan aturan-aturan yang telah ditentukan sebelumnya."
+    },
+    {
+        "question": "Bagaimana cara memperbarui alamat email saya?",
+        "answer": "Untuk memperbarui alamat email Anda, buka pengaturan akun dan pilih opsi untuk memperbarui informasi email."
+    },
+    {
+        "question": "Apa itu chatbot berbasis AI?",
+        "answer": "Chatbot berbasis AI adalah chatbot yang menggunakan machine learning dan natural language processing untuk memahami dan merespon input pengguna secara lebih alami."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan fitur pencarian suara?",
+        "answer": "Untuk mengaktifkan fitur pencarian suara, buka pengaturan aplikasi pencarian dan pilih opsi untuk mengaktifkan pencarian suara."
+    },
+    {
+        "question": "Apa itu robotic process automation?",
+        "answer": "Robotic process automation (RPA) adalah teknologi yang memungkinkan penggunaan perangkat lunak untuk mengotomatisasi tugas-tugas berulang dan berbasis aturan di aplikasi digital."
+    },
+    {
+        "question": "Bagaimana cara mengubah kata sandi akun saya?",
+        "answer": "Untuk mengubah kata sandi akun Anda, buka pengaturan akun dan pilih opsi untuk mengubah kata sandi."
+    },
+    {
+        "question": "Apa itu chatbot hibrida?",
+        "answer": "Chatbot hibrida adalah chatbot yang menggabungkan pendekatan berbasis rule dan berbasis AI untuk memberikan respon yang lebih efektif."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan mode pesawat di ponsel saya?",
+        "answer": "Untuk mengaktifkan mode pesawat di ponsel Anda, buka pengaturan cepat dan pilih ikon mode pesawat."
+    },
+    {
+        "question": "Apa itu natural language understanding?",
+        "answer": "Natural language understanding (NLU) adalah cabang dari natural language processing (NLP) yang berfokus pada pemahaman makna dari input bahasa alami."
+    },
+    {
+        "question": "Bagaimana cara menonaktifkan notifikasi aplikasi?",
+        "answer": "Untuk menonaktifkan notifikasi aplikasi, buka pengaturan aplikasi dan pilih opsi untuk menonaktifkan notifikasi."
+    },
+    {
+        "question": "Apa itu supervised learning?",
+        "answer": "Supervised learning adalah metode machine learning di mana model dilatih menggunakan data yang sudah dilabeli."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan fitur penghemat baterai?",
+        "answer": "Untuk mengaktifkan fitur penghemat baterai, buka pengaturan ponsel Anda dan pilih opsi penghemat baterai."
+    },
+    {
+        "question": "Apa itu unsupervised learning?",
+        "answer": "Unsupervised learning adalah metode machine learning di mana model dilatih menggunakan data yang tidak dilabeli."
+    },
+    {
+        "question": "Bagaimana cara menghapus aplikasi dari ponsel saya?",
+        "answer": "Untuk menghapus aplikasi dari ponsel Anda, tahan ikon aplikasi dan pilih opsi untuk menghapus atau uninstall."
+    },
+    {
+        "question": "Apa itu reinforcement learning?",
+        "answer": "Reinforcement learning adalah metode machine learning di mana model belajar untuk membuat keputusan dengan menerima umpan balik dalam bentuk reward atau penalti."
+    },
+    {
+        "question": "Bagaimana cara mengatur volume nada dering?",
+        "answer": "Untuk mengatur volume nada dering, buka pengaturan suara di ponsel Anda dan sesuaikan slider volume."
+    },
+    {
+        "question": "Apa itu transfer learning?",
+        "answer": "Transfer learning adalah teknik dalam machine learning di mana model yang sudah dilatih pada satu tugas digunakan kembali untuk tugas lain yang terkait."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan fitur pelacakan lokasi?",
+        "answer": "Untuk mengaktifkan fitur pelacakan lokasi, buka pengaturan lokasi di ponsel Anda dan aktifkan layanan lokasi."
+    },
+    {
+        "question": "Apa itu convolutional neural network?",
+        "answer": "Convolutional neural network (CNN) adalah jenis jaringan saraf tiruan yang banyak digunakan untuk pengolahan citra dan video."
+    },
+    {
+        "question": "Bagaimana cara mengubah bahasa di ponsel saya?",
+        "answer": "Untuk mengubah bahasa di ponsel Anda, buka pengaturan bahasa dan masukan dan pilih bahasa yang diinginkan."
+    },
+    {
+        "question": "Apa itu recurrent neural network?",
+        "answer": "Recurrent neural network (RNN) adalah jenis jaringan saraf tiruan yang digunakan untuk memproses data urutan seperti teks dan sinyal waktu."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan mode jangan ganggu?",
+        "answer": "Untuk mengaktifkan mode jangan ganggu, buka pengaturan cepat dan pilih ikon mode jangan ganggu."
+    },
+    {
+        "question": "Apa itu GAN?",
+        "answer": "GAN atau Generative Adversarial Network adalah arsitektur jaringan saraf yang terdiri dari dua jaringan yang bersaing untuk menghasilkan data yang realistis."
+    },
+    {
+        "question": "Bagaimana cara mengatur nada dering khusus untuk kontak tertentu?",
+        "answer": "Untuk mengatur nada dering khusus, buka kontak yang diinginkan, pilih opsi edit, dan pilih nada dering khusus."
+    },
+    {
+        "question": "Apa itu chatbot berbasis teks?",
+        "answer": "Chatbot berbasis teks adalah chatbot yang berinteraksi dengan pengguna melalui teks tertulis."
+    },
+    {
+        "question": "Bagaimana cara memperbarui profil saya?",
+        "answer": "Untuk memperbarui profil Anda, buka pengaturan akun dan pilih opsi untuk mengedit profil."
+    },
+    {
+        "question": "Apa itu chatbot berbasis suara?",
+        "answer": "Chatbot berbasis suara adalah chatbot yang berinteraksi dengan pengguna melalui input dan output suara."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan pengenalan wajah?",
+        "answer": "Untuk mengaktifkan pengenalan wajah, buka pengaturan keamanan di ponsel Anda dan pilih opsi pengenalan wajah."
+    },
+    {
+        "question": "Apa itu chatbot berbasis gambar?",
+        "answer": "Chatbot berbasis gambar adalah chatbot yang berinteraksi dengan pengguna melalui gambar dan grafis."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan autentikasi dua faktor?",
+        "answer": "Untuk mengaktifkan autentikasi dua faktor, buka pengaturan keamanan akun dan pilih opsi untuk mengaktifkan autentikasi dua faktor."
+    },
+    {
+        "question": "Apa itu chatbot berbasis video?",
+        "answer": "Chatbot berbasis video adalah chatbot yang berinteraksi dengan pengguna melalui video."
+    },
+    {
+        "question": "Bagaimana cara mengubah tema aplikasi?",
+        "answer": "Untuk mengubah tema aplikasi, buka pengaturan aplikasi dan pilih opsi untuk mengubah tema."
+    },
+    {
+        "question": "Apa itu chatbot berbasis AR?",
+        "answer": "Chatbot berbasis AR adalah chatbot yang menggunakan augmented reality untuk berinteraksi dengan pengguna."
+    },
+    {
+        "question": "Bagaimana cara menambahkan tanda tangan email?",
+        "answer": "Untuk menambahkan tanda tangan email, buka pengaturan email dan pilih opsi untuk menambahkan atau mengedit tanda tangan."
+    },
+    {
+        "question": "Apa itu chatbot berbasis VR?",
+        "answer": "Chatbot berbasis VR adalah chatbot yang menggunakan virtual reality untuk berinteraksi dengan pengguna."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan mode hemat data?",
+        "answer": "Untuk mengaktifkan mode hemat data, buka pengaturan jaringan dan internet dan pilih opsi untuk mengaktifkan mode hemat data."
+    },
+    {
+        "question": "Apa itu chatbot berbasis blockchain?",
+        "answer": "Chatbot berbasis blockchain adalah chatbot yang menggunakan teknologi blockchain untuk meningkatkan keamanan dan transparansi."
+    },
+    {
+        "question": "Bagaimana cara memblokir nomor telepon?",
+        "answer": "Untuk memblokir nomor telepon, buka aplikasi telepon, pilih nomor yang ingin diblokir, dan pilih opsi untuk memblokir nomor."
+    },
+    {
+        "question": "Apa itu chatbot berbasis IoT?",
+        "answer": "Chatbot berbasis IoT adalah chatbot yang berinteraksi dengan perangkat IoT untuk mengotomatisasi dan mengendalikan berbagai fungsi."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan hotspot pribadi?",
+        "answer": "Untuk mengaktifkan hotspot pribadi, buka pengaturan jaringan dan internet dan pilih opsi untuk mengaktifkan hotspot."
+    },
+    {
+        "question": "Apa itu chatbot berbasis cloud?",
+        "answer": "Chatbot berbasis cloud adalah chatbot yang dihosting di platform cloud dan dapat diakses dari mana saja melalui internet."
+    },
+    {
+        "question": "Bagaimana cara menghubungkan ponsel saya ke TV?",
+        "answer": "Untuk menghubungkan ponsel Anda ke TV, gunakan kabel HDMI atau fitur casting yang tersedia di ponsel dan TV Anda."
+    },
+    {
+        "question": "Apa itu chatbot berbasis hybrid?",
+        "answer": "Chatbot berbasis hybrid adalah chatbot yang menggabungkan berbagai teknologi seperti AI, rule-based, dan cloud untuk memberikan pengalaman pengguna yang lebih baik."
+    },
+    {
+        "question": "Bagaimana cara mengaktifkan fitur parental control?",
+        "answer": "Untuk mengaktifkan fitur parental control, buka pengaturan ponsel atau aplikasi yang relevan dan pilih opsi untuk mengaktifkan parental control."
+    },
+    {
+        "question": "Apa itu chatbot berbasis NLP?",
+        "answer": "Chatbot berbasis NLP adalah chatbot yang menggunakan pemrosesan bahasa alami untuk memahami dan merespons input pengguna."
+    },
+    {
+        "question": "Bagaimana cara memperbarui sistem operasi ponsel saya?",
+        "answer": "Untuk memperbarui sistem operasi ponsel Anda, buka pengaturan sistem dan pilih opsi pembaruan perangkat lunak."
+    },
+    {
+        "question": "Apa itu chatbot berbasis ML?",
+        "answer": "Chatbot berbasis ML adalah chatbot yang menggunakan machine learning untuk meningkatkan kemampuannya dalam memahami dan merespons input pengguna."
+    },
+    {
+        "question": "Bagaimana cara mengubah pengaturan privasi akun saya?",
+        "answer": "Untuk mengubah pengaturan privasi akun Anda, buka pengaturan akun dan pilih opsi privasi."
+    }
+]
